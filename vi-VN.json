@@ -5,5 +5,15 @@
   "video.subCount" : "%1s% người đăng ký",
   "video.like" : "thích",
   "video.share" : "chia sẻ",
-  "video.subscribe" : "đăng ký"
+  "video.subscribe" : "đăng ký",
+  "user.home" : "trang chủ",
+  "user.Ytshorts" : "Shorts",
+  "user.subscribed" : "kênh đã đăng ký",
+  "user.you" : "Về bạn",
+  "user.NewVideos" : "Tạo",
+  "user.ViewYourChannel" : "xem kênh của bạn",
+  "user.googleaccount" : "tài khoản google",
+  "user.SwitchAccount" : "chuyển đổi tài khoản",
+  "user.YtStudio" : "Youtube Studio",
+  "user.setting" : "cài đặt"
 }
