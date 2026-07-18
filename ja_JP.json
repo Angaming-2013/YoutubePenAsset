@@ -6,4 +6,14 @@
   "video.like" : "高評価",
   "video.share" : "共有",
   "video.subscribe" : "チャンネル登録"
+  "user.home" : "ホーム",
+  "user.Ytshorts" : "ショート動画",
+  "user.subscribed" : "登録済み",
+  "user.you" : "あなた",
+  "user.NewVideos" : "新規動画作成",
+  "user.ViewYourChannel" : "チャンネルを見る",
+  "user.googleaccount" : "Googleアカウント",
+  "user.SwitchAccount" : "アカウント切り替え",
+  "user.YtStudio" : "YouTube Studio",
+  "user.setting" : "設定"
 }
