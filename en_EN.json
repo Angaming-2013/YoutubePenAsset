@@ -1,0 +1,9 @@
+{
+  "setting.on" : "on",
+  "setting.off" : "off",
+  "setting.language" : "language",
+  "video.subCount" : "%1s% subscribers",
+  "video.like" : "like",
+  "video.share" : "share",
+  "video.subscribe" : "subscribe"
+}
