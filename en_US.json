@@ -6,4 +6,14 @@
   "video.like" : "like",
   "video.share" : "share",
   "video.subscribe" : "subscribe"
+  "user.home" : "Home",
+  "user.Ytshorts" : "Shorts",
+  "user.subscribed" : "Subscribed",
+  "user.you" : "You",
+  "user.NewVideos" : "Create",
+  "user.ViewYourChannel" : "ViewYourChannel",
+  "user.googleaccount" : "Google Account",
+  "user.SwitchAccount" : "Switch Account",
+  "user.YtStudio" : "Youtube Studio",
+  "user.setting" : "Setting"
 }
