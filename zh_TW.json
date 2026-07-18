@@ -6,4 +6,14 @@
   "video.like" : "喜歡",
   "video.share" : "分享",
   "video.subscribe" : "訂閲"
+  "user.home" : "首頁",
+  "user.Ytshorts" : "短片",
+  "user.subscribed" : "已訂閱",
+  "user.you" : "您",
+  "user.NewVideos" : "創建",
+  "user.ViewYourChannel" : "檢視您的頻道",
+  "user.googleaccount" : "Google 帳號",
+  "user.SwitchAccount" : "切換帳號",
+  "user.YtStudio" : "YouTube 工作室",
+  "user.setting" : "設定"
 }
