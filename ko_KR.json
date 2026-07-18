@@ -6,4 +6,14 @@
   "video.like" : "좋아요",
   "video.share" : "공유",
   "video.subscribe" : "구독"
+  "user.home" : "홈",
+  "user.Ytshorts" : "숏츠",
+  "user.subscribed" : "구독함",
+  "user.you" : "내 사용자",
+  "user.NewVideos" : "새 동영상 만들기",
+  "user.ViewYourChannel" : "내 채널 보기",
+  "user.googleaccount" : "구글 계정",
+  "user.SwitchAccount" : "계정 변경",
+  "user.YtStudio" : "유튜브 스튜디오",
+  "user.setting" : "설정"
 }
