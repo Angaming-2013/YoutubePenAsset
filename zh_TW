@@ -1,0 +1,9 @@
+{
+  "setting.on" : "開",
+  "setting.off" : "關",
+  "setting.language" : "語言",
+  "video.subCount" : "%1s% 位訂閱者",
+  "video.like" : "喜歡",
+  "video.share" : "分享",
+  "video.subscribe" : "訂閲"
+}
