@@ -1,0 +1,9 @@
+{
+  "setting.on" : "켜짐",
+  "setting.off" : "꺼짐",
+  "setting.language" : "언어",
+  "video.subCount" : "구독자 %1s%명",
+  "video.like" : "좋아요",
+  "video.share" : "공유",
+  "video.subscribe" : "구독"
+}
