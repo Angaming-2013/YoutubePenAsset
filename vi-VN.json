@@ -1,1 +1,9 @@
-
+{
+  "setting.on" : "mở",
+  "setting.off" : "tắt",
+  "setting.language" : "ngôn ngữ",
+  "video.subCount" : "%1s% người đăng ký",
+  "video.like" : "thích",
+  "video.share" : "chia sẻ",
+  "video.subscribe" : "đăng ký"
+}
